@@ -1,5 +1,7 @@
 
-👋 Hi there! I’m an aspiring front-end developer passionate about building beautiful, user-friendly websites and applications. Currently, I’m diving deep into HTML, CSS, JavaScript, and exploring frameworks like React.
+ # 👋 Hi there! I’m Silviu 
+ 
+ A front-end developer passionate about building beautiful, user-friendly websites and applications. Currently, I’m diving deep into HTML, CSS, JavaScript, and exploring frameworks like React, Bootstrap and Tailwind.
 
 🌱 I’m learning by creating projects that challenge me, from responsive landing pages to interactive web apps. Every line of code brings me closer to mastering the art of front-end development.
 
@@ -9,30 +11,25 @@
 
 
 
- https://github-readme-stats.vercel.app/api?username=Miron-Silviu
 
 
- https://github-readme-stats.vercel.app/api?username=Miron-Silviu&theme=radical
 
 
- https://github-readme-stats.vercel.app/api?username=Miron-Silviu&hide=stars,issues
-
-https://github-readme-stats.vercel.app/api?username=Miron-Silviu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff
-
+# My GitHub Stats 📊
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miron-silviu&theme=radical)
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Miron-Silviu&layout=compact&theme=radical
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=Miron-Silviu&layout=compact&theme=radical)
 
 
-![javaScript](https://github-readme-stats.vercel.app/api/top-langs/?username=Miron-Silviu&layout=compact&theme=radical)
+![javaScript](https://github-readme-stats.vercel.app/api/top-langs/?username=Miron-Silviu&layout=compact&theme=radicalv=1)
 
 
-https://streak-stats.demolab.com?user=Miron-Silviu&theme=radical
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Silviu Miron&theme=radical)
+
+
 <!--
 **Miron-Silviu/Miron-Silviu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
