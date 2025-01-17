@@ -32,7 +32,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Miron-Silviu&layo
 https://streak-stats.demolab.com?user=Miron-Silviu&theme=radical
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Miron-Silviu&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Silviu Miron&theme=radical)
 <!--
 **Miron-Silviu/Miron-Silviu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
