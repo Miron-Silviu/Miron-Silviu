@@ -32,7 +32,7 @@ I’m curious by nature and love tackling problems with clean, elegant code and 
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
+  
 </p>
 
 **GitHub Stats:**  
