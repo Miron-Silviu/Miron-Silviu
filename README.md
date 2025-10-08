@@ -9,10 +9,8 @@
 I'm a passionate **front-end developer** focused on crafting **beautiful**, **user-friendly** web experiences. Currently deep-diving into:
 
 - 🌐 **HTML**, 🎨 **CSS**, 💻 **JavaScript**  
-- ⚛️ **React**, 💨 **Tailwind CSS**, 🎨 **Bootstrap**  
-- 🗄️ **SQL**, 🍃 **MongoDB**, 🟢 **Node.js**  
+- ⚛️ **React**, 💨 **Tailwind CSS**, 🎨 **Bootstrap**     
 - 🎨 **Figma** (UI/UX design)  
-- 🤖 **Artificial Intelligence** basics and practical applications  
 - 🐍 **Python** programming  
 
 I’m curious by nature and love tackling problems with clean, elegant code and thoughtful design.
