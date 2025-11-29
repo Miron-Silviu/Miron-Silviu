@@ -35,9 +35,8 @@ I’m curious by nature and love tackling problems with clean, elegant code and 
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://img.shields.io/github/languages/top/miron-silviu/<repo-name>?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/miron-silviu/<repo-name>?style=flat-square)
-
+<!-- PROFILE-README-START -->
+<!-- PROFILE-README-END -->
 ---
 
 ## 🌐 Connect With Me
