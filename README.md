@@ -1,24 +1,63 @@
-<h1 align="center">Hi 👋, I'm Silviu</h1>
-<h3 align="center">A passionate front-end developer focused on crafting beautiful, use-friendly web experiences. Currently deep-diving into:</h3>
+# 👋 Hi there! I’m Silviu
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=silviu-miron&label=Profile%20views&color=0e75b6&style=flat" alt="silviu-miron" /> </p>
+🎯 **Front-End Developer | UI Enthusiast | Lifelong Learner | Problem Solver**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silviu-miron" alt="silviu-miron" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/silviu miron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silviu miron" height="30" width="40" /></a>
+## 💻 About Me
+
+I'm a passionate **front-end developer** focused on crafting **beautiful**, **user-friendly** web experiences. Currently deep-diving into:
+
+- 🌐 **HTML**, 🎨 **CSS**, 💻 **JavaScript**  
+- ⚛️ **React**, 💨 **Tailwind CSS**, 🎨 **Bootstrap**     
+- 🎨 **Figma** (UI/UX design)  
+- 🐍 **Python** programming  
+
+I’m curious by nature and love tackling problems with clean, elegant code and thoughtful design.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 600px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://en.cppreference.com/w/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silviu-miron&show_icons=true&locale=en&layout=compact" alt="silviu-miron" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silviu-miron&show_icons=true&locale=en" alt="silviu-miron" /></p>
+<p align="center" style="display:flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miron-silviu&show_icons=true&theme=react&hide_border=true" style="max-width: 48%; flex: 1;" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miron-silviu&layout=compact&theme=tokyonight&hide_border=true" style="max-width: 48%; flex: 1;" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silviu-miron&" alt="silviu-miron" /></p>
+---
 
+## 🌐 Connect With Me
+
+<p style="display:flex; flex-wrap:wrap; gap:14px; align-items:center; font-size:1rem;">
+  <a href="https://your-portfolio-url.com" target="_blank" rel="noopener" style="text-decoration:none;">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-purple?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" rel="noopener" style="text-decoration:none;">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Silviu-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/silviuumiron" target="_blank" rel="noopener" style="text-decoration:none;">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-Silviu-green?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com" style="text-decoration:none;" target="_blank" rel="noopener">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
