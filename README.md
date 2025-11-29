@@ -35,9 +35,18 @@ I’m curious by nature and love tackling problems with clean, elegant code and 
 
 ## 📊 GitHub Stats
 
-<p align="center" style="display:flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miron-silviu&show_icons=true&theme=react&hide_border=true" style="max-width: 48%; flex: 1;" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miron-silviu&layout=compact&theme=tokyonight&hide_border=true" style="max-width: 48%; flex: 1;" />
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img 
+    alt="GitHub Stats"
+    src="https://github-readme-stats-git-master-miron-silvius-projects.vercel.app/api?username=miron-silviu&show_icons=true&theme=react&hide_border=true"
+    style="max-width: 48%; flex: 1;" 
+  />
+
+  <img 
+    alt="Top Languages"
+    src="https://github-readme-stats-git-master-miron-silvius-projects.vercel.app/api/top-langs/?username=miron-silviu&layout=compact&theme=tokyonight&hide_border=true"
+    style="max-width: 48%; flex: 1;" 
+  />
 </p>
 
 ---
