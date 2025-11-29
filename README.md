@@ -17,29 +17,29 @@ I’m curious by nature and love tackling problems with clean, elegant code and 
 
 ---
 
-## 🛠️ Tech Stack & Stats
+## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack & Stats
-
-**Tech Stack:**  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 600px;">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="flex: 0 0 16%; max-width: 16%;" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" style="flex: 0 0 16%; max-width: 16%;" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
-
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
+  <a href="https://en.cppreference.com/w/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
 </p>
 
-**GitHub Stats:**  
-<p align="left" style="display:flex; gap: 20px; flex-wrap: wrap;">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miron-silviu&show_icons=true&theme=react&hide_border=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miron-silviu&layout=compact&theme=tokyonight&hide_border=true" />
+---
+
+## 📊 GitHub Stats
+
+<p align="center" style="display:flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miron-silviu&show_icons=true&theme=react&hide_border=true" style="max-width: 48%; flex: 1;" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miron-silviu&layout=compact&theme=tokyonight&hide_border=true" style="max-width: 48%; flex: 1;" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
