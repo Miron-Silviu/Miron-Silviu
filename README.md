@@ -37,7 +37,7 @@ I’m curious by nature and love tackling problems with clean, elegant code and 
 ## 📊 GitHub Stats
 
 <!-- PROFILE-README-START -->
-![Top Languages](https://img.shields.io/github/languages/top/miron-silviu/Miron-Silviu?style=flat-square)
+![Silviu's GitHub stats](https://github-readme-stats.vercel.app/api?username=miron-silviu&show_icons=true&theme=react)
 ![GitHub stars](https://img.shields.io/github/stars/miron-silviu/Miron-Silviu?style=flat-square)
 <!-- PROFILE-README-END -->
 
