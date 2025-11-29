@@ -1,3 +1,4 @@
+
 # 👋 Hi there! I’m Silviu
 
 🎯 **Front-End Developer | UI Enthusiast | Lifelong Learner | Problem Solver**
@@ -36,7 +37,10 @@ I’m curious by nature and love tackling problems with clean, elegant code and 
 ## 📊 GitHub Stats
 
 <!-- PROFILE-README-START -->
+![Top Languages](https://img.shields.io/github/languages/top/miron-silviu/<repo-name>?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/miron-silviu/<repo-name>?style=flat-square)
 <!-- PROFILE-README-END -->
+
 ---
 
 ## 🌐 Connect With Me
