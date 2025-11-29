@@ -37,7 +37,6 @@ I’m curious by nature and love tackling problems with clean, elegant code and 
 
 **GitHub Stats:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miron-silviu&show_icons=true&theme=react&hide_border=true&hide_title=true)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miron-silviu&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
