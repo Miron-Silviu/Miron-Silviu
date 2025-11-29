@@ -19,6 +19,8 @@ I’m curious by nature and love tackling problems with clean, elegant code and 
 
 ## 🛠️ Tech Stack & Stats
 
+## 🛠️ Tech Stack & Stats
+
 **Tech Stack:**  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 600px;">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
@@ -28,17 +30,16 @@ I’m curious by nature and love tackling problems with clean, elegant code and 
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
 
-
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" />
-  
 </p>
 
 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miron-silviu&show_icons=true&theme=react&hide_border=true&hide_title=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miron-silviu&layout=compact&theme=tokyonight&hide_border=true)
-
+<p align="left" style="display:flex; gap: 20px; flex-wrap: wrap;">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miron-silviu&show_icons=true&theme=react&hide_border=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miron-silviu&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 🌐 Connect With Me
