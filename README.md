@@ -40,9 +40,11 @@ I’m curious by nature and love tackling problems with clean, elegant code and 
 
 ## 📊 GitHub Stats
 
-![Silviu's GitHub stats](https://github-readme-stats.vercel.app/api?username=miron-silviu&show_icons=true&theme=react)
+![Silviu's GitHub stats](https://github-readme-stats.vercel.app/api?username=miron-silviu&show_icons=true&theme=react&count_private=true&hide=prs)
+
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miron-silviu&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miron-silviu&layout=compact&theme=react&count_private=true)
+
 <!-- PROFILE-README-END -->
 
 ---
