@@ -12,7 +12,7 @@ I'm a passionate **front-end developer** focused on crafting **beautiful**, **us
 - 🌐 **HTML**, 🎨 **CSS**, 💻 **JavaScript**  
 - ⚛️ **React**, 💨 **Tailwind CSS**, 🎨 **Bootstrap**     
 - 🎨 **Figma** (UI/UX design)  
-- 🐍 **Python** programming  
+ 
 
 I’m curious by nature and love tackling problems with clean, elegant code and thoughtful design.
 
@@ -28,8 +28,6 @@ I’m curious by nature and love tackling problems with clean, elegant code and 
   <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
   <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
   <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
-  <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
-  <a href="https://en.cppreference.com/w/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" style="flex: 0 0 16%; max-width: 16%;" /></a>
 </p>
 
 ---
